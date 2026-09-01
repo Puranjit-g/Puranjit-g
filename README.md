@@ -9,7 +9,4 @@ Hey! 👋 I'm a Java backend enthusiast who enjoys building projects, solving co
 ![](https://streak-stats.demolab.com/?user=Puranjit-g&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Puranjit-g&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Puranjit-g&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
